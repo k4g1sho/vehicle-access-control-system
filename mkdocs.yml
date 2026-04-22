@@ -1,0 +1,9 @@
+site_name: vehicle-access-control-system
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.section
+    - search.suggest
+  language: en
+
